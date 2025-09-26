@@ -1,0 +1,6 @@
+portfolio.db
+config.php
+*.log
+.DS_Store
+node_modules/
+
